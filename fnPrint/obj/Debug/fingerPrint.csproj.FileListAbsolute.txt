@@ -1,0 +1,702 @@
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\Interop.ZKFPEngXControl.dll
+C:\Users\Fadhil A. Hussein\Desktop\fnPrint\fnPrint\bin\Debug\stdole.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\AxInterop.ZKFPEngXControl.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\Interop.ZKFPEngXControl.dll
+C:\Users\Fadhil A. Hussein\Desktop\New folder\fnPrint\fnPrint\bin\Debug\stdole.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\stdole.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v16.2.Core.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v16.2.Core.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\ZKFinger SDK\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v16.2.Core.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\stdole.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v16.2.Core.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.dll
+E:\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\stdole.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\AxInterop.ZKFPEngXControl.dll
+D:\PROGRAMMING\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\Interop.ZKFPEngXControl.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\AxInterop.ZKFPEngXControl.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Images.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.CoreCompileInputs.cache
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\fingerPrint.exe.config
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\Interop.ZKFPEngXControl.dll
+D:\My staff\FingerPrint\zkFpsystem\fnPrint\fnPrint\bin\Debug\stdole.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\fingerPrint.exe.config
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\Interop.ZKFPEngXControl.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Images.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\stdole.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.CoreCompileInputs.cache
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+D:\My staff\FingerPrint\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.dll
+D:\My staff\FingerPrint\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\fingerPrint.exe.config
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\fingerPrint.exe
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\fingerPrint.pdb
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\Interop.ZKFPEngXControl.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Images.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\stdole.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Data.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\System.Data.SQLite.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.csprojResolveAssemblyReference.cache
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.ResolveComReference.cache
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.Form1.resources
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.Properties.Resources.resources
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.GenerateResource.Cache
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.exe.licenses
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.csproj.CoreCompileInputs.cache
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.exe
+D:\My staff\myProjectsForm\ZK4500\fnPrint\fnPrint\obj\Debug\fingerPrint.pdb
